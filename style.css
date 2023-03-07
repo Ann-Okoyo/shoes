@@ -1,0 +1,180 @@
+
+body{
+    background-color: whitesmoke;
+
+}
+.navigation ul{
+     display: flex;
+     gap: 4em;
+     list-style: none;
+    
+
+     
+}
+.ann2 ul{
+    display: flex;
+    gap: 4em;
+    list-style: none;
+}
+.container{
+    display: flex;
+    gap: 30%;
+}
+.fix{
+    color: #ee3232;
+}
+.ani{
+justify-content: right;
+display: flex;
+margin-right: 900px;
+}
+.Omar{
+    text-align: center;
+    color: black;
+    font-size: larger;
+
+}
+.girl{
+    
+
+    
+
+}
+#skirt{
+    text-align: center;
+}
+.latino{
+    display: flex;
+    gap: 25%;
+}
+.header{
+   font-size: 98px;
+}
+.hani{
+    font-size: 180%;
+}
+.you{
+    color: black;
+
+
+}
+.girl{
+    border: solid;color: white;
+    border-radius: 40%;
+}
+#me{
+    display: flex;
+}
+.faith{
+    color: #ee3232; 
+}
+ 
+   .Ann{
+    display: flex;
+   } 
+   .andy{
+    padding-top: 70px;
+    margin-left: 350px;
+   }
+.boy{
+    margin-left: 250px;
+}
+.cross{
+    display: flex;
+}
+.joy{
+    margin-right: 100px;
+}
+.val{
+    display: flex;
+}
+.first{
+    text-align: center;
+}
+.congrats{
+    text-align: center;
+}
+
+.pink{
+
+    text-align: center;
+    border-radius: 10%;
+    margin-left: 600px;
+    width: 390px;
+    margin: top 100px;;
+
+
+
+}
+.joy{
+    margin-left: 7%;
+    height: 40vh;
+}
+.peace{
+    
+}
+.wambui{
+    background-color: white;
+    width: 30%;
+    height: 40vh;
+
+    
+}
+/* .sumi{
+    margin-top: 10%; */
+
+
+.image4 img{
+    width: 200px;
+    
+
+}
+.img1 img{
+    width: 200px;
+}
+.sumi{
+    background-color: white;
+    width: 20%;
+    height: 40vh;
+    margin-top: 10%;
+}
+.omar{
+    background-color: white;
+    width: 20%;
+    height: 40vh;
+    margin: top 900px; ;
+
+}
+.mother{
+    display: flex;
+}
+.mother2{
+    display: flex;
+    
+}
+.picture8{
+
+}    /* display: flex;
+     */
+
+.work{
+    display: flex;
+}
+.TESTY{
+   color: #ee3232;
+   font-size: larger;
+
+}
+.abby{
+    text-align: center;
+    border: solid;color: #ee3232;
+    
+
+}
+.footer{
+    justify-content: space-between;
+    display:flex
+    background-color: bisque;
+}
+
+
